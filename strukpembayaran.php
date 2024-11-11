@@ -144,13 +144,13 @@ if (isset($_GET['data'])) {
                             <div class="row">
                                 <div class="col-xs-6 col-sm-6 col-md-6 mt-5">
                                     <address>
-                                        <strong>Pluto Cafe</strong>
+                                        <strong>PT. Tarik sis</strong>
                                         <br>
-                                        PT. Pluto Indonesia
+                                        SEAMONGKO
                                         <br>
-                                        Batu, Kota Batu, Jawa Timur 65314
+                                        Bululawang, Kab. Malang, Jawa Timur 65171
                                         <br>
-                                        <abbr title="Phone">No.telp:</abbr> +62 81265423613
+                                        <abbr title="Phone">No.telp:</abbr> +62 8127943275
                                     </address>
                                 </div>
                                 <div class="col-xs-6 col-sm-6 col-md-6 text-end mt-5">

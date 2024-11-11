@@ -132,7 +132,7 @@ $role = $_SESSION['level'] === 'admin';
 
                         </br>
                         <div class="col-sm-10 mx-3 my-0">
-                            <?php if ($_GET['notif'] && $_GET['jenis']) { ?>
+                            <?php if (isset($_GET['notif']) && isset($_GET['jenis'])) { ?>
                                 <?php if ($_GET['notif'] == "editkosong") { ?>
                                     <div class="alert alert-danger" role="alert">Maaf data
                                         <?php echo $_GET['jenis']; ?> wajib di isi</div>
